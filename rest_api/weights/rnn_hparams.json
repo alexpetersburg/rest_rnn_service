@@ -1,0 +1,10 @@
+{
+  "n_features": 30,
+  "hidden_layer_size": 60,
+  "num_layers": 3,
+  "learning_rate": 0.036307805477010104,
+  "dropout": 0.5,
+  "weight_decay": 0.005,
+  "seq_len": 20,
+  "batch_size": 500
+}
