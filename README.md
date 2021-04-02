@@ -40,7 +40,7 @@ python app.py -h
 
 To predict: POST json  on path `/predict`. 
 
-```json
+```
 request json example:
 {"x": [
     [1,2,...],
@@ -58,7 +58,7 @@ response json example:
 
 To train: POST json  on path `/train`. 
 
-```json
+```
 request json example:
 {"x": [
     [1,2,...],
